@@ -1,7 +1,7 @@
 # ~~Portfolio Optimization with QAOA and Qiskit~~ Stock Estimator with VQR
 
 ### Project Presentation Video
-[![Project Presentation Video](https://img.youtube.com/vi/EueJQHK_8qw/0.jpg)](https://youtu.be/EueJQHK_8qw "Click to play on Youtube.com")
+[![Project Presentation Video](https://img.youtube.com/vi/WnqyhPx64Cw/0.jpg)](https://youtu.be/WnqyhPx64Cw "Click to play on Youtube.com")
 
 ### Description
 
